@@ -4,3 +4,6 @@ data
 work_dirs
 mmdet.egg*
 build
+
+*.so
+.vscode/
